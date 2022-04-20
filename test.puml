@@ -1,0 +1,13 @@
+@startuml{plantuml_class_sample.png}
+title test
+class Canvas
+class "Figure" as a
+class "aaoaoaooaoaoao" as Rect
+
+
+a <|-up- Rect : 汎化
+note left
+test sample
+end note
+
+@enduml
